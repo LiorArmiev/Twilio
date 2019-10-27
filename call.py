@@ -19,4 +19,5 @@ call = client.calls.create(
                         to=phonenumber,
                         from_='+972587992444'
                     )
+#output
 print(call.sid)
