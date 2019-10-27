@@ -25,4 +25,3 @@ if(phonenumber is not None and alertcontext is not None):
     print(call.sid)
 else:
     print("No Input Data")
-#test feature
