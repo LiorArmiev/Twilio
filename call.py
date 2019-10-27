@@ -11,6 +11,7 @@ twiliohtml+= alerturl
 print(phonenumber)
 print(twiliohtml)
 
+#check that alert is valid
 if(phonenumber is not None and alertcontext is not None):
     #account_sid = ''
     #auth_token = ''
